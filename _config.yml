@@ -1,10 +1,10 @@
-title: Streamdata Gallery Comparison
-url: comparison.streamdata.gallery
-tag: Comparison
+title: Streamdata Gallery Comparisons
+url: comparisons.streamdata.gallery
+tag: Comparisons
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: comparison
+github_repo: comparisons
 github_branch: master
 collections:
   listings:
